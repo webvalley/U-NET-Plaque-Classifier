@@ -1,0 +1,26 @@
+<annotation>
+	<folder>useful</folder>
+	<filename>sagittal18.png</filename>
+	<path>/Users/krithik/Downloads/image-classification/Training Images/useful/sagittal18.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Calcified Tissue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>143</ymin>
+			<xmax>285</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

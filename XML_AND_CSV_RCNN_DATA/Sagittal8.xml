@@ -1,0 +1,50 @@
+<annotation>
+	<folder>useful</folder>
+	<filename>conv_H7DAIDHU.png</filename>
+	<path>/Users/krithik/Downloads/image-classification/Training Images/useful/conv_H7DAIDHU.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Calcified Tissue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>170</ymin>
+			<xmax>438</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lipid Core</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>179</ymin>
+			<xmax>499</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fibrous Tissue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>145</ymin>
+			<xmax>504</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

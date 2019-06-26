@@ -1,0 +1,4 @@
+image_names,composition,xmin,xmax,ymin,ymax
+sagittal25.png,Calcified Tissue,349,416,140,183
+sagittal25.png,Lipid Core,422,480,136,163
+sagittal25.png,Calcified Tissue,483,515,127,144

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>useful</folder>
+	<filename>sagittal2.png</filename>
+	<path>/Users/krithik/Downloads/image-classification/Training Images/useful/sagittal2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>636</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fibrous Tissue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>170</ymin>
+			<xmax>262</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

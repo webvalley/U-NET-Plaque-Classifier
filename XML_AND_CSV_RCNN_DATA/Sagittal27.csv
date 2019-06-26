@@ -1,0 +1,4 @@
+image_names,composition,xmin,xmax,ymin,ymax
+sagittal27.png,Calcified Tissue,179,255,172,205
+sagittal27.png,Fibrous Tissue,288,333,143,170
+sagittal27.png,Fibrous Tissue,264,293,167,188

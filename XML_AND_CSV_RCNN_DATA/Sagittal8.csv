@@ -1,0 +1,4 @@
+image_names,composition,xmin,xmax,ymin,ymax
+sagittal8.png,Calcified Tissue,352,438,170,197
+sagittal8.png,Lipid Core,456,499,179,212
+sagittal8.png,Fibrous Tissue,441,504,145,178
